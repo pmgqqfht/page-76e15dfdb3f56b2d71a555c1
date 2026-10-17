@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "5b9a72295a41f0a0bd0a3634",
+  "owner": "pmgqqfht",
+  "repo": "page-76e15dfdb3f56b2d71a555c1",
+  "title": "牛牛很牛",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "76e15dfdb3f56b2d71a555c1",
+      "a": "牛牛很牛",
+      "b": "",
+      "entity": "牛牛很牛",
+      "brand": "牛牛很牛",
+      "separator": "",
+      "path": "index.html",
+      "hash": "db36382bcf9fb178e8c2beb8993a8f96e935e9038f83262c0cd992020d6934f7",
+      "content": {
+        "keyword1": "牛牛很牛",
+        "keyword2": "",
+        "primary_entity": "牛牛很牛",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "牛牛很牛提供三档订阅套餐与节点路由说明，按月或按年付费，支持多设备同时在线与流媒体解锁，附 FAQ 与使用须知。",
+          "AI_DESCRIPTION": "牛牛很牛提供三档订阅套餐与节点路由说明，按月或按年付费，支持多设备同时在线与流媒体解锁，附 FAQ 与使用须知。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\nhtml,body{margin:0;padding:0;background:#f4ede0;color:#2a1a0e;font-family:\"Helvetica Neue\",Helvetica,\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;-webkit-font-smoothing:antialiased}\na{color:#1d6b56;text-decoration:none;border-bottom:1px dotted #1d6b56}\na:hover{background:#d6ece2}\n.topnav{height:34px;display:flex;align-items:center;justify-content:space-between;padding:0 28px;background:#2a1a0e;color:#f4ede0;font-size:12px;letter-spacing:.04em}\n.topnav .left{font-weight:600;letter-spacing:.18em;text-transform:uppercase}\n.topnav .right a{color:#cfeee2;margin-left:22px;border-bottom:none}\n.topnav .right a:hover{background:transparent;color:#9be0c2}\n.hero{min-height:78vh;display:grid;grid-template-columns:minmax(280px,420px) 1fr;gap:48px;padding:80px 56px 96px;align-items:start}\n.hero .col-narrow{max-width:420px}\n.hero .col-narrow .eyebrow{font-size:12px;letter-spacing:.32em;color:#7a5a3f;text-transform:uppercase;margin-bottom:18px}\n.hero h1{font-size:56px;line-height:1.05;margin:0 0 22px;font-weight:700;color:#2a1a0e;letter-spacing:-.01em}\n.hero p.lead{font-size:16px;line-height:1.7;color:#5a4634;margin:0 0 28px}\n.hero ul.briefing{list-style:none;padding:0;margin:0 0 32px;font-size:14px;line-height:1.9;color:#5a4634}\n.hero ul.briefing li{padding-left:14px;border-left:2px solid #bfe2d3;margin-bottom:6px}\n.hero .col-wide{min-height:60vh}\n.hero .col-wide .rule{height:1px;background:#d8c8b0;width:64px;margin:0 0 28px}\n.hero .col-wide .note{font-size:13px;line-height:1.8;color:#7a6a55;max-width:520px}\n.hero .col-wide .panel{background:#2a1a0e;color:#f4ede0;padding:22px 26px;margin-top:36px;max-width:520px}\n.hero .col-wide .panel h3{margin:0 0 8px;font-size:13px;letter-spacing:.22em;text-transform:uppercase;color:#9be0c2;font-weight:600}\n.hero .col-wide .panel p{margin:0;font-size:13px;line-height:1.7;color:#e7dccb}\nsection.block{padding:72px 56px;border-top:1px solid #e6d9c2}\nsection.block h2{font-size:13px;letter-spacing:.32em;text-transform:uppercase;color:#7a5a3f;margin:0 0 10px;font-weight:600}\nsection.block h2 + h3{font-size:30px;line-height:1.25;margin:0 0 28px;font-weight:700;color:#2a1a0e;letter-spacing:-.005em}\nsection.block p.intro{font-size:15px;line-height:1.75;color:#5a4634;max-width:640px;margin:0 0 36px}\n.row-plans{display:flex;flex-direction:column;gap:36px;max-width:760px}\n.plan-card{padding:30px 32px;background:#fbf5ea}\n.plan-card .head{display:flex;align-items:baseline;justify-content:space-between;flex-wrap:wrap;margin-bottom:8px}\n.plan-card .head h4{margin:0;font-size:22px;font-weight:700;color:#2a1a0e}\n.plan-card .head .tag{font-size:11px;letter-spacing:.22em;text-transform:uppercase;color:#1d6b56;border:1px solid #bfe2d3;padding:3px 8px}\n.plan-card .price{font-size:15px;color:#2a1a0e;margin-bottom:4px;font-weight:600}\n.plan-card .annual{font-size:13px;color:#7a6a55;margin-bottom:20px}\n.plan-card ul{list-style:none;padding:0;margin:0;font-size:14px;line-height:1.95;color:#3d2e1f}\n.plan-card ul li{padding-left:18px;position:relative}\n.plan-card ul li::before{content:\"\";position:absolute;left:0;top:11px;width:8px;height:1px;background:#1d6b56}\n.spec-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:36px;max-width:840px}\n.spec-grid .cell{padding:8px 0}\n.spec-grid .cell .k{font-size:11px;letter-spacing:.26em;text-transform:uppercase;color:#7a5a3f;margin-bottom:8px}\n.spec-grid .cell .v{font-size:14px;line-height:1.7;color:#2a1a0e}\n.usage-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:36px;max-width:880px}\n.usage-grid .step{padding:0}\n.usage-grid .step .num{font-size:11px;letter-spacing:.26em;color:#7a5a3f;margin-bottom:10px}\n.usage-grid .step h5{margin:0 0 8px;font-size:16px;font-weight:600;color:#2a1a0e}\n.usage-grid .step p{margin:0;font-size:13px;line-height:1.75;color:#5a4634}\n.faq-wrap{max-width:760px}\n.faq-wrap details{padding:18px 0;border-top:1px solid #e6d9c2}\n.faq-wrap details:last-of-type{border-bottom:1px solid #e6d9c2}\n.faq-wrap summary{cursor:pointer;font-size:15px;font-weight:600;color:#2a1a0e;list-style:none;display:flex;justify-content:space-between;align-items:center}\n.faq-wrap summary::-webkit-details-marker{display:none}\n.faq-wrap summary::after{content:\"+\";color:#1d6b56;font-weight:400;font-size:18px}\n.faq-wrap details[open] summary::after{content:\"−\"}\n.faq-wrap .ans{margin-top:14px;font-size:14px;line-height:1.8;color:#3d2e1f}\n.policy-list{max-width:760px;font-size:14px;line-height:1.9;color:#3d2e1f}\n.policy-list li{margin-bottom:10px}\nfooter{padding:48px 56px;background:#2a1a0e;color:#cfeee2;font-size:12px;letter-spacing:.04em;display:flex;justify-content:space-between;flex-wrap:wrap;gap:16px}\nfooter span{color:#9be0c2}\n@media (max-width:860px){\n.hero{grid-template-columns:1fr;padding:56px 22px 72px;gap:36px}\n.hero h1{font-size:40px}\n.hero .col-wide .panel{margin-top:24px}\nsection.block{padding:56px 22px}\n.row-plans,.spec-grid,.usage-grid,.faq-wrap,.policy-list{max-width:100%}\n}\n</style><nav class=\"topnav\" aria-label=\"顶部导航\">\n<div class=\"left\">牛牛很牛 · NIUNIUHUNIU</div>\n<div class=\"right\">\n<a href=\"#plans\">订阅</a>\n<a href=\"#usage\">使用</a>\n<a href=\"#spec\">规格</a>\n<a href=\"#faq\">FAQ</a>\n</div>\n</nav>\n\n<main>\n<section class=\"hero\">\n<div class=\"col-narrow\">\n<div class=\"eyebrow\">节点订阅 · 第 7278 期</div>\n<h1>牛牛很牛的节点路由与流量说明</h1>\n<p class=\"lead\">本页以中性口吻描述牛牛很牛当前提供的三档订阅内容、流量上限、并行设备数量，以及在常见客户端中的导入方式。具体节点与线路信息以订阅后台披露为准。</p>\n<ul class=\"briefing\">\n<li>三档固定套餐：基础版、旗舰版、团队版</li>\n<li>支持按月或按年计费，年度套餐单月成本更低</li>\n<li>提供订阅链接与一码导入，无强制账号绑定</li>\n<li>流量用尽或到期可续费延续，未到期不会清零</li>\n</ul>\n</div>\n<div class=\"col-wide\">\n<div class=\"rule\"></div>\n<p class=\"note\">牛牛很牛不提供运营商级的国际出口承诺，亦不声明覆盖全部海外服务。下文所述节点池、流媒体解锁与专线能力，均以订阅后台当前开放的节点列表为准，请以登录后实际看到的项目为准。</p>\n<div class=\"panel\">\n<h3>阅读须知</h3>\n<p>本文档不包含任何下载二维码、邀请码或第三方推广链接。所有数字、参数、价格仅作为订阅前对照参考，最终以订单页与后台控制台显示的为准。</p>\n</div>\n</div>\n</section>\n\n<section class=\"block\" id=\"plans\">\n<h2>Subscriptions</h2>\n<h3>三档订阅对照</h3>\n<p class=\"intro\">以下三档为当前对外公开的标准订阅规格，按月支付或按年支付均可，按年付清的总价低于按月累计的 12 倍。每一档均提供独立的订阅链接，可在不同客户端分别导入。</p>\n<div class=\"row-plans\">\n<article class=\"plan-card\">\n<div class=\"head\"><h4>基础版</h4><span class=\"tag\">Entry</span></div>\n<div class=\"price\">¥15 / 月</div>\n<div class=\"annual\">按年付仅需 ¥150 / 年</div>\n<ul>\n<li>每月 100GB 极速流量</li>\n<li>支持 3 台设备同时在线</li>\n<li>解锁基础流媒体</li>\n<li>普通线路节点池</li>\n</ul>\n</article>\n<article class=\"plan-card\">\n<div class=\"head\"><h4>旗舰版</h4><span class=\"tag\">Recommended</span></div>\n<div class=\"price\">¥35 / 月</div>\n<div class=\"annual\">按年付仅需 ¥350 / 年</div>\n<ul>\n<li>每月 300GB 极速流量</li>\n<li>支持 5 台设备同时在线</li>\n<li>全节点原生流媒体解锁</li>\n<li>IPLC 专线游戏加速优化</li>\n<li>7×24 优先工单支持</li>\n</ul>\n</article>\n<article class=\"plan-card\">\n<div class=\"head\"><h4>团队版</h4><span class=\"tag\">Group</span></div>\n<div class=\"price\">¥85 / 月</div>\n<div class=\"annual\">按年付仅需 ¥850 / 年</div>\n<ul>\n<li>每月 1000GB 极速流量</li>\n<li>支持 20 台设备同时在线</li>\n<li>VIP 专属高带宽节点</li>\n<li>支持企业定制路由</li>\n<li>专属客户经理服务</li>\n</ul>\n</article>\n</div>\n</section>\n\n<section class=\"block\" id=\"usage\">\n<h2>Usage</h2>\n<h3>订阅链接的使用流程</h3>\n<p class=\"intro\">牛牛很牛通过订阅链接分发节点信息。订阅链接包含凭据，请勿公开发布或转发给他人。下列步骤描述常见客户端的导入过程，便于首次使用者对照操作。</p>\n<div class=\"usage-grid\">\n<div class=\"step\">\n<div class=\"num\">STEP 01</div>\n<h5>复制订阅地址</h5>\n<p>登录订阅后台的「我的套餐」页面，点击「复制订阅链接」按钮，将以 <code>https://</code> 开头的完整地址复制到剪贴板。</p>\n</div>\n<div class=\"step\">\n<div class=\"num\">STEP 02</div>\n<h5>在客户端粘贴</h5>\n<p>打开支持订阅链接的客户端，进入「订阅设置」，粘贴地址并保存。客户端将自动下载并刷新节点列表。</p>\n</div>\n<div class=\"step\">\n<div class=\"num\">STEP 03</div>\n<h5>选择节点连接</h5>\n<p>在节点列表中按用途挑选入口：日常浏览选择低延迟节点，流媒体选择标注「解锁」的节点，跨区游戏选择「IPLC」专线。</p>\n</div>\n<div class=\"step\">\n<div class=\"num\">STEP 04</div>\n<h5>关注流量与到期</h5>\n<p>后台首页会显示本月已用流量、剩余流量与到期日；流量耗尽或到期后节点仍可见但无法连接，需续费后恢复。</p>\n</div>\n</div>\n</section>\n\n<section class=\"block\" id=\"spec\">\n<h2>Specifications</h2>\n<h3>套餐规格速览</h3>\n<p class=\"intro\">下表把三档套餐的主要参数整理为横向速览，便于在订阅前快速对照。需要更详细的说明请查看上方三档套餐卡片。</p>\n<div class=\"spec-grid\">\n<div class=\"cell\"><div class=\"k\">流量</div><div class=\"v\">基础版 100GB · 旗舰版 300GB · 团队版 1000GB 每月</div></div>\n<div class=\"cell\"><div class=\"k\">并行设备</div><div class=\"v\">3 / 5 / 20 台，超出将无法建立新连接</div></div>\n<div class=\"cell\"><div class=\"k\">计费周期</div><div class=\"v\">按月或按年，按年付清的总价更优</div></div>\n<div class=\"cell\"><div class=\"k\">支付方式</div><div class=\"v\">以订阅后台当前展示的支付通道为准</div></div>\n<div class=\"cell\"><div class=\"k\">流媒体</div><div class=\"v\">基础版支持基础解锁，旗舰版覆盖全节点原生解锁</div></div>\n<div class=\"cell\"><div class=\"k\">专线</div><div class=\"v\">仅旗舰版与团队版提供 IPLC / 企业定制路由</div></div>\n<div class=\"cell\"><div class=\"k\">支持</div><div class=\"v\">基础版为常规工单，旗舰版起为 7×24 优先响应</div></div>\n<div class=\"cell\"><div class=\"k\">续费</div><div class=\"v\">到期或流量耗尽前完成续费即可延续使用</div></div>\n</div>\n</section>\n\n<section class=\"block\" id=\"policy\">\n<h2>Notice</h2>\n<h3>使用与合规须知</h3>\n<ul class=\"policy-list\">\n<li>订阅链接包含用户凭据，请妥善保管；如怀疑泄露请在后台重置订阅地址。</li>\n<li>节点资源按订阅档位提供，跨档位的并发连接可能受套餐上限约束。</li>\n<li>本服务仅供个人学习、跨境资料检索与合规业务使用，请遵循所在地区的网络使用规范。</li>\n<li>套餐价格、流量额度、并行设备数量以订单页与后台控制台实时显示为准。</li>\n</ul>\n</section>\n\n<section class=\"block\" id=\"faq\">\n<h2>FAQ</h2>\n<h3>常见问题</h3>\n<div class=\"faq-wrap\">\n<details>\n<summary>订阅链接失效或被重置后如何处理？</summary>\n<div class=\"ans\">请登录订阅后台进入「我的套餐」，点击「重置订阅地址」生成新链接，再回到客户端覆盖粘贴。旧链接即时作废，已使用旧链接登录的客户端需重新拉取节点列表。</div>\n</details>\n<details>\n<summary>本月流量未用完是否会清零？</summary>\n<div class=\"ans\">未到期的剩余流量会顺延到下一个计费周期，与到期后的新流量合并计算；到期且未续费的订阅会进入冻结状态，节点保留但无法连接，续费后可恢复。</div>\n</details>\n<details>\n<summary>同时在线的设备数超出上限会怎样？</summary>\n<div class=\"ans\">新设备将无法建立连接，已有连接不受影响；关闭空闲设备或升级到更高档位可释放或扩大上限。基础版 3 台、旗舰版 5 台、团队版 20 台。</div>\n</details>\n<details>\n<summary>三档套餐之间如何切换或更换？</summary>\n<div class=\"ans\">在订阅后台选择目标档位并支付差额即可升级；降档会在当前计费周期结束后生效，期间仍按原档位提供服务。团队版如需企业定制路由，请联系客户经理沟通接入细节。</div>\n</details>\n<details>\n<summary>按年付清后是否可以申请退款？</summary>\n<div class=\"ans\">按年付清的订阅在开通后 7 天内且未产生大量流量消耗的情况下，可联系后台提交退款申请；已使用的部分将按对应档位的月付价格折算扣除，具体以订单页说明为准。</div>\n</details>\n<details>\n<summary>客户端导入后看不到任何节点怎么办？</summary>\n<div class=\"ans\">先检查订阅链接是否完整复制（含 <code>https://</code> 前缀），再确认客户端允许从剪贴板或自定义订阅地址拉取；仍然为空时，可在客户端使用「更新订阅」并等待后台刷新完成。</div>\n</details>\n</div>\n</section>\n</main>\n\n<footer>\n<div>牛牛很牛 · 节点订阅与流量说明文档</div>\n<div><span>本文档为静态说明，不包含任何交易或下载链接。</span></div>\n</footer>",
+          "hash": "838457d41d8865cb05092fb3b1750cabe15c48495e4b8b495bec8e9914029ab8",
+          "seo": {
+            "title": "牛牛很牛 — 节点路由与流量订阅说明",
+            "keywords": "牛牛很牛,节点订阅,流量套餐,IPLC专线,多设备,流媒体解锁",
+            "description": "牛牛很牛提供三档订阅套餐与节点路由说明，按月或按年付费，支持多设备同时在线与流媒体解锁，附 FAQ 与使用须知。"
+          },
+          "provider": "grok",
+          "model": "MiniMax-M3",
+          "design": {
+            "no": "7278",
+            "hero": "7 窄栏居左配大面积留白",
+            "palette": "9 深棕配薄荷",
+            "nav": "1 顶部细横条",
+            "card": "1 无边框仅靠留白分隔",
+            "plans_view": "4 单列大卡依次堆叠",
+            "faq_view": "4 details 折叠",
+            "tone": "1 冷静克制的说明书口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "jsdgm.cn",
+    "host": "p-c8be830031.jsdgm.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "7b8df5167521630b0458449825135caec47782fc32bd040d744483fe77da7a84",
+    "sitemap.xml": "7e18704824154c37618d1a95ea31779fb790a77157ca45529c3ef0d027c1964d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "8260399d47949b93e872a9eb5ea928f17668d75e7d705a87e31543d3e9d6d7b9",
+    "robots.txt": "9b162cea4292281de5c2e86067fd88a3e44a71cbe39a714919f32df26de02d67",
+    "69d9415c84fc8132abd03236f08b637e.txt": "dc09f6b6ab3d2e77a69974819630da1c23fad140cab9359f7c737932022e7a1d"
+  },
+  "revision": "62f709ccd2bb8cfaaca0ed354b3d3f5df19a3f0d8b88d644eabf2ff12faf74cd"
+}
